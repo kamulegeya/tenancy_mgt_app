@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/txtViewGuide"
+        android:layout_marginTop="10dp"
+        android:textSize="16dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/editTextYearStart"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:hint="start date "
+        android:layout_height="40dp" />
+    <EditText
+        android:id="@+id/editTextYearEnd"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:hint="End date"
+        android:layout_height="40dp" />
+    <EditText
+        android:id="@+id/editTextAllowance"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:inputType="number"
+        android:hint="Enter percent allowance for costs"
+        android:layout_height="40dp" />
+    <EditText
+        android:id="@+id/editTextAnnualT"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:inputType="number"
+        android:hint="Enter annual  threshold"
+        android:layout_height="40dp" />
+    <EditText
+        android:id="@+id/editTextTaxRate"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:inputType="number"
+        android:hint="Enter Tax Rate"
+        android:layout_height="40dp" />
+    <Button
+        android:id="@+id/Compute"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:text="Compute"
+        android:layout_height="40dp" />
+</LinearLayout>

@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_meters_contextmenu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\meters_contextmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_read_meter.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\read_meter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_meters_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\meters_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_reading_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_reading_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_appartments.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_appartments.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tenancy.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\tenancy.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_apartmentpayments.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\apartmentpayments.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_payments.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_try.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\list_try.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photos.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_meters_allocations_details.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\meters_allocations_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_pressed.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_meter.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_meter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_rental_invoices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_rental_invoices.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_rental_payments_status.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\rental_payments_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_locations.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_user_information.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\xml\\user_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_usersettings.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\usersettings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_appartment_locations.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\appartment_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_app.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\icon_app.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_general.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\general.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pages.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_counter_bg.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenancy_inactive.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\tenancy_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_search.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_balances_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\balances_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_apartments_blocks.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_apartments_blocks.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenants_listview.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\tenants_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_appartments_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\appartments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_editmeterallocation.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\editmeterallocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_readings.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\readings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_rental_payments_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\rental_payments_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_user_settings.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout-land\\user_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_invoices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\invoices.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_inactivetenants.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\inactivetenants.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_room_invoicing_status.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\room_invoicing_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pages.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addtenants.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\addtenants.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_textviews.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\textviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_communities.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_annualfigures.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\annualfigures.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_try2.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\list_try2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_rental_payments_view.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\rental_payments_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_invoices2.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\invoices2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenancy_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\tenancy_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_exports.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\exports.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_general.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\general.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_rental_tax_results.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\rental_tax_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_invoices_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\invoices_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_get_readings.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\get_readings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tenants_context.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\tenants_context.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tenancy_context.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\tenancy_context.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_locations.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_locations.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_search.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\main_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tenancymenu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\tenancymenu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_new_meter.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_new_meter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mainmenu.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\mainmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_annualsales.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\annualsales.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_expiry_display_dialog.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\expiry_display_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_greenbtn.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\greenbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_allocate_meters.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\allocate_meters.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_photos.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_apartmentinvoices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\apartmentinvoices.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pages.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_communities.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_meters_inactive.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\meters_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_people.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_images.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\images.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_end_allocation_dialog.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\end_allocation_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_invoicesstatus.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\invoicesstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_rental_payments.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_rental_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_meterslist.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\meterslist.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contacts.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_image.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\home_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_backup.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_try3.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-ldpi\\list_try3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_invoices1.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\invoices1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_tenants.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_tenants.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tenants.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\tenants.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_balances_details.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\balances_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addmeters.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\addmeters.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_payments_edit.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\payments_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_slide.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\main_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_apartmentpayments_total.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\apartmentpayments_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_locationsales.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\locationsales.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_rental_tax_compute.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\rental_tax_compute.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_reading_details.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_reading_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_date_reading.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\date_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_meter_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\meter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_un_invoiced_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\un_invoiced_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_tenancy.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_tenancy.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenants.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\tenants.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_search.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\xml\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_tenancy.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_tenancy.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_rental_invoices.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_rental_invoices.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_communities.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-hdpi\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_photos.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_rental.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\menu\\rental.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_appartments.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_appartments.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenant_inactive.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\tenant_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_editpayments_dialog.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\editpayments_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_tenants1.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\tenants1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_preferences.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_new_tenant.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_new_tenant.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_individual_reading.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\individual_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_apartments_blocks.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\add_apartments_blocks.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_reading_dialog.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\edit_reading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_meters_allocation_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\meters_allocation_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MMApp\\app\\src\\main\\res\\layout\\search_main.xml"
+    }
+]

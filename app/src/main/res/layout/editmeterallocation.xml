@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+    
+<Spinner android:id="@+id/tenant_allocate_m"
+      android:layout_width="fill_parent" 
+       android:layout_marginLeft="15sp"    
+       android:layout_marginRight="15sp"
+        android:prompt="@string/choosetenant"           
+        android:layout_height="wrap_content">
+      </Spinner>
+    <Spinner android:id="@+id/choose_meter"
+      android:layout_marginRight="15sp"
+      android:layout_marginLeft="15sp"  
+      android:prompt="@string/choose_meter"
+      android:layout_below="@+id/tenant_allocate_m"
+      android:layout_width="fill_parent"       
+      android:layout_height="wrap_content">
+      </Spinner>  
+      <LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l1"
+              android:layout_below="@+id/choose_meter"
+    		android:layout_height="wrap_content"    		
+    		android:orientation="horizontal">    
+          	<TextView
+            android:id="@+id/txtTenat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+            android:layout_marginLeft="15sp"  
+            android:textSize="15sp"
+                      
+             android:lineSpacingExtra="15sp"
+            android:text="Current Tenant" />
+             
+       <TextView
+        android:id="@+id/txtViewCurrentTenat" 
+          android:textSize="15sp"   
+          android:layout_weight="0.55"    
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"         
+        android:gravity="center"           
+        
+       
+        />    
+    
+    </LinearLayout>
+   <LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l2"
+              android:layout_below="@+id/l1"
+    		android:layout_height="wrap_content"    		
+    		android:orientation="horizontal">
+    
+          	<TextView
+            android:id="@+id/txtMeter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+            android:layout_marginLeft="15sp"  
+            android:textSize="15sp"
+                  
+             android:lineSpacingExtra="15sp"
+            android:text="Meter Number" />
+             
+       <TextView
+        android:id="@+id/txtViewMeter" 
+          android:textSize="15sp"   
+          android:layout_weight="0.55"    
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"         
+        android:gravity="center"           
+       
+        />    
+    
+    </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l3"
+    		android:layout_height="wrap_content"
+    		android:layout_below="@+id/l2"
+    		android:orientation="horizontal">
+    
+          	<TextView
+            android:id="@+id/pick_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"  
+            android:layout_marginLeft="15sp"  
+            android:textSize="15sp"
+                  
+             android:lineSpacingExtra="15sp"
+            android:text="Date Allocated" />
+             
+       <EditText
+        android:id="@+id/txt_date_allocated" 
+          android:textSize="15sp" 
+          android:layout_marginRight="20sp"  
+          android:layout_weight="0.50"    
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"         
+        android:gravity="center"           
+        android:textColor="@color/green"        
+       
+        />   
+        
+       
+</LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l4"
+              
+              android:layout_below="@+id/l3"
+    		  android:layout_height="wrap_content"    		
+    		   android:orientation="horizontal">
+    
+       	<TextView
+       	    android:id="@+id/textView"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"
+       	    android:layout_marginLeft="15sp"
+       	    android:layout_weight="0.15"
+       	    android:lineSpacingExtra="15sp"
+       	    android:text="Meter Reading"
+       	   
+       	    android:textSize="15sp" />
+       	
+       	<EditText android:id="@+id/meterReading"
+       	     android:lineSpacingExtra="15sp"
+       	         android:layout_width="wrap_content"
+       	         android:inputType="number"
+       	          android:layout_weight="0.55"
+       	          android:gravity="center"
+       	          android:layout_marginRight="20sp"
+       	          android:layout_height="wrap_content"
+       	          android:textColor="@color/green"/>
+       
+      </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l5"
+              
+              android:layout_below="@+id/l4"
+    		  android:layout_height="wrap_content"    		
+    		   android:orientation="horizontal">
+    
+       	<TextView
+       	    android:id="@+id/textView11"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"
+       	    android:layout_marginLeft="15sp"
+       	    android:layout_weight="0.15"
+       	    android:lineSpacingExtra="15sp"
+       	    android:text="Power Unit Rate"
+       	   
+       	    android:textSize="15sp" />
+       	
+       	<EditText android:id="@+id/txtRate"
+       	     android:lineSpacingExtra="15sp"
+       	         android:layout_width="wrap_content"
+       	         android:inputType="number"
+       	          android:layout_weight="0.55"
+       	          android:gravity="right"
+       	          android:layout_marginRight="20sp"
+       	          android:layout_height="wrap_content"
+       	          android:textColor="@color/green"/>
+       
+      </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l6"
+              android:layout_below="@+id/l5"
+    		android:layout_height="wrap_content"    		
+    		android:orientation="horizontal">
+    
+       	<Button
+            android:id="@+id/btnEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+              android:textColor="@color/green"    
+            android:layout_weight="0.4"
+            android:gravity="center"
+            android:layout_marginRight="15sp"
+            android:layout_marginLeft="15sp"         
+            android:onClick="EditRecord"
+            android:text="Edit" />             
+          
+       
+      </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l7"
+              android:layout_below="@+id/l6"
+    		android:layout_height="wrap_content"    		
+    		android:orientation="horizontal">
+       <TextView
+           android:id="@+id/Explain"          
+           android:layout_width="fill_parent"
+           android:layout_height="40dip"
+           android:layout_alignParentBottom="true"
+           android:layout_marginLeft="15sp"
+           android:layout_marginRight="15sp"
+           android:background="#FF666666"
+           android:textSize="12sp"
+           android:gravity="left"
+           android:padding="4dip"
+           android:layout_marginBottom="5sp"
+           android:text="@string/meter_allocate"
+            />
+  </LinearLayout>
+       
+</RelativeLayout>
+</ScrollView>

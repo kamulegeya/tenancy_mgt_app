@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/add_locations" android:title="Add Locations" android:orderInCategory="1"></item>
+     <item android:id="@+id/add_blocks" android:title="Add Apartment Blocks" android:orderInCategory="2"></item>
+     <item android:id="@+id/add_tenancy" android:title="Add Tenancy" android:orderInCategory="4" ></item>
+     <item android:id="@+id/receipts" android:title="Make Receipts"  android:orderInCategory="5"></item>     
+       <item android:id="@+id/add_apartments" android:title="Add Apartments" android:orderInCategory="3"></item>
+       <item android:id="@+id/add_invoices" android:title="Make Invoice"  android:orderInCategory="6"></item>
+       <item android:id="@+id/locations" android:title="Locations"  android:orderInCategory="7"></item>
+        <item android:id="@+id/apartments_list" android:title="Apartments" android:orderInCategory="8"></item>
+        <item android:id="@+id/rental_payments" android:title="View Payments" android:orderInCategory="9"></item>        
+        <item android:id="@+id/invoices_view" android:title="Un-paid invoices" android:orderInCategory="10"></item>
+         <item android:id="@+id/payments_status"  android:title="Invoice Payments" android:orderInCategory="11"></item>
+         <item android:id="@+id/blocks"  android:title="Apartment Blocks" android:orderInCategory="12"></item>
+          <item android:id="@+id/annual"  android:title="Annual Receipts/Invoices" android:orderInCategory="13"></item>
+    <item android:id="@+id/invoice_status"  android:title="Room Invoicing Status" android:orderInCategory="14"></item>
+        <item android:id="@+id/mysearch" android:title="Click to Search" android:orderInCategory="1"
+        android:showAsAction="ifRoom" 
+          android:actionViewClass="android.widget.SearchView"
+        ></item>
+    
+        
+</menu>

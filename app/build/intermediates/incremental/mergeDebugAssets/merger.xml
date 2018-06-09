@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\assets"><file name="databases/meterapp.sqlite" path="C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\assets\databases\meterapp.sqlite"/></source></dataSet><dataSet config="debug"><source path="C:\Users\user\AndroidStudioProjects\MMApp\app\src\debug\assets"/></dataSet></merger>

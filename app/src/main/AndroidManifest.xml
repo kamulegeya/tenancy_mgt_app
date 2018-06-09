@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.metermanager"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_app"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name=".SimpleSuggestionProvider"
+            android:authorities="com.example.metermanager.SimpleSuggestionProvider" />
+        <provider
+            android:name="meters.model.CacheFileProvider"
+            android:authorities="meters.model.cacheFileProvider"
+            android:exported="true" />
+
+        <meta-data
+            android:name="android.app.searchable"
+            android:value=".SearchAcivity" />
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAImFGIPA5p_8EvZMvSWjAD5l5fyD3t6Khe4mF0SA" />
+
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/home"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ReadMeter"
+            android:label="@string/readmeter"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddNewTenant"
+            android:label="@string/tenants_add"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditLocations"
+            android:label="@string/edit_l"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TenantList"
+            android:label="@string/list"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DateReading"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CSVExports"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditTenancy"
+            android:label="@string/list_tenancy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UserSettingsActivity"
+            android:label="@string/user_settings" />
+        <activity
+            android:name=".Help"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".InActiveTenancy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ProcessRentalInvoice"
+            android:label="@string/process_invoice"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditTenants"
+            android:label="@string/editTenants"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditMeterReading"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditApartmentBlocks"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditMeterAllocation"
+            android:label="@string/editallocation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MeterList"
+            android:label="@string/meter_list"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TenantBalances"
+            android:label="@string/power_balances"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Payments"
+            android:label="@string/receipts"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddNewMeter"
+            android:label="@string/addmeter"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MetersTenants"
+            android:label="@string/allocate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SetInActiveTenant"
+            android:label="@string/allocate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LocationSales"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Allocation_Meters"
+            android:label="@string/meters_allocation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Bills"
+            android:label="@string/bills"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditPayments"
+            android:label="@string/editpayments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddTenancy"
+            android:label="@string/tenancy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ActiveTenancyList"
+            android:label="@string/list1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddLocations"
+            android:label="@string/apartmentlocations"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddApartmentBlocks"
+            android:label="@string/addblocks"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ApartmentLocations"
+            android:label="@string/locations"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ApartmentsList"
+            android:label="@string/apartments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AddApartments"
+            android:label="@string/apartments_add"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RentalPayments"
+            android:label="@string/rental_payments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RentalPaymentsList"
+            android:label="@string/listing_payments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Invoices"
+            android:label="@string/invoices_unpaid"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AnnualFigures"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MeterReadings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OverDueInvoices"
+            android:label="@string/invoices_unpaid"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.example.metermanager.OverDueInvoices" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            >
+        </activity>
+        <activity
+            android:name=".RentalPaymentsStaus"
+            android:label="@string/invoices_status"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BackupActivity"
+            android:label="@string/bkup"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BlocksList"
+            android:label="@string/list_blocks"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PowerPaymentsActivity"
+            android:label="@string/power"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ApartmentPayments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ImagesActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <data
+                    android:host="com.example.metermanager"
+                    android:scheme="content" />
+            </intent-filter>
+            >
+        </activity>
+        <activity
+            android:name=".ApartmentInvoices"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditApartments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MetersInActive"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditMeters"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditInvoices"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SetTenancyInActive"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UnInvoicedRoomsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SearchActivity"
+            android:label="@string/results"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/search" />
+            >
+        </activity>
+        <activity
+            android:name=".SearchMain"
+            android:label="@string/search"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".SearchActivity" />
+            >
+        </activity>
+
+        <receiver android:name=".NotificationsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".RentalTaxComputation" />
+        <activity android:name=".RentalTaxResults" />
+        <activity android:name=".RoomInvoicingStatus"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+    
+<Spinner android:id="@+id/tenant_allocate_m"
+      android:layout_width="fill_parent" 
+       android:layout_marginLeft="20sp"    
+       android:layout_marginRight="20sp"
+        android:prompt="@string/choosetenant"           
+        android:layout_height="wrap_content">
+      </Spinner>
+    <Spinner android:id="@+id/choose_meter"
+      android:layout_marginRight="20sp"
+      android:layout_marginLeft="20sp"  
+      android:prompt="@string/choose_meter"
+      android:layout_below="@+id/tenant_allocate_m"
+      android:layout_width="fill_parent"       
+      android:layout_height="wrap_content">
+      </Spinner>  
+      
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l1"
+    		android:layout_height="wrap_content"
+    		android:layout_below="@+id/choose_meter"
+    		android:orientation="horizontal">
+    
+          	<Button
+            android:id="@+id/pick_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+            android:layout_marginLeft="20sp"  
+              android:textColor="@color/green"           
+            android:onClick="AddDate"
+            android:text="Pick Date" />
+             
+       <TextView
+        android:id="@+id/txt_date_allocated" 
+          android:textSize="20sp"       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"         
+        android:gravity="left" 
+        android:text="No Date Selected"   
+            
+       
+        />   
+        
+       
+</LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l2"
+              
+              android:layout_below="@+id/l1"
+    		  android:layout_height="wrap_content"    		
+    		   android:orientation="horizontal">
+    
+       	<TextView
+       	    android:id="@+id/textView"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"
+       	    android:layout_marginLeft="18sp"
+       	    android:layout_weight="0.15"
+       	    android:lineSpacingExtra="20sp"
+       	    android:text="Meter Reading"
+       	   
+       	    android:textSize="25sp" />
+       	
+       	<EditText android:id="@+id/meterReading"
+       	     android:lineSpacingExtra="20sp"
+       	         android:layout_width="wrap_content"
+       	         android:inputType="numberDecimal"
+       	          android:layout_weight="0.55"
+       	          android:gravity="right"
+       	          android:layout_marginRight="18sp"
+       	          android:layout_height="wrap_content"
+       	          android:textColor="@color/green"/>
+       
+      </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l3"
+              
+              android:layout_below="@+id/l2"
+    		  android:layout_height="wrap_content"    		
+    		   android:orientation="horizontal">
+    
+       	<TextView
+       	    android:id="@+id/textViewRate"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"
+       	    android:layout_marginLeft="20sp"
+       	    android:layout_weight="0.15"
+       	    android:lineSpacingExtra="20sp"
+       	    android:text="Power Unit Rate"
+       	  
+       	    android:textSize="25sp" />
+       	
+       	<EditText android:id="@+id/txtRate"
+       	     android:lineSpacingExtra="20sp"
+       	         android:layout_width="wrap_content"
+       	         android:inputType="numberDecimal"
+       	          android:layout_weight="0.55"
+       	          android:gravity="right"
+       	          android:layout_marginRight="20sp"
+       	          android:layout_height="wrap_content"
+       	          android:textColor="@color/green"/>
+       
+      </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l4"
+              android:layout_below="@+id/l3"
+    		android:layout_height="wrap_content"    		
+    		android:orientation="horizontal">
+    
+       	<Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+              android:textColor="@color/green"    
+            android:layout_weight="0.4"
+            android:gravity="center"
+            android:layout_marginLeft="20sp"         
+            android:onClick="AddNew"
+            android:text="Add" />             
+           	<Button
+            android:id="@+id/exit"
+            android:layout_marginRight="20sp"
+              android:textColor="@color/green"    
+             android:layout_weight="0.4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+           android:gravity="center"      
+            android:onClick="Cancel"
+            android:text="Clear" />  
+       
+      </LinearLayout>
+<LinearLayout android:layout_width="match_parent"
+              android:id="@+id/l5"
+              android:layout_below="@+id/l4"
+    		android:layout_height="wrap_content"    		
+    		android:orientation="horizontal">
+       <TextView
+           android:id="@+id/Explain"          
+           android:layout_width="fill_parent"
+           android:layout_height="40dip"
+           android:layout_alignParentBottom="true"
+           android:layout_marginLeft="20sp"
+           android:layout_marginRight="20sp"
+           android:background="#FF666666"
+           android:textSize="10sp"
+           android:gravity="left"
+           android:padding="4dip"
+           android:layout_marginBottom="5sp"
+           android:text="Select the Date Tenant started using the Meter. Enter the meter reading on that Date"
+           android:textColor="@color/white" />
+  </LinearLayout>
+       
+</RelativeLayout>
+</ScrollView>

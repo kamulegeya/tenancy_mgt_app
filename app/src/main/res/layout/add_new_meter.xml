@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"  
+     android:background="@drawable/general" 
+    android:layout_height="match_parent" >
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:lineSpacingExtra="20sp"       
+         android:layout_marginLeft="10sp"
+        android:text="Serial Number"
+        />
+      <TextView
+        android:id="@+id/textView2"
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:layout_below="@+id/textView1"
+         android:layout_marginLeft="10sp"
+         android:lineSpacingExtra="20sp"
+        android:text="Meter Number"
+        /> 
+            
+        
+        <EditText
+         android:id="@+id/editText1"
+          android:inputType="text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:background="@drawable/edittext"
+        android:layout_alignParentRight="true"
+        
+        android:layout_alignTop="@+id/textView1"
+        android:layout_marginRight="10sp"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_toRightOf="@+id/textView1"/>
+        <EditText
+         android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+         android:background="@drawable/edittext"
+        android:layout_height="wrap_content"
+         android:layout_marginRight="10sp"         
+         android:inputType="text"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_toRightOf="@+id/textView2"/>
+    <LinearLayout
+    android:id="@+id/L1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/textView2"
+    android:layout_marginTop="20sp"
+    android:orientation="horizontal" >
+              
+        <Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+             android:textColor="@color/green"
+            android:layout_height="wrap_content"        
+            android:layout_marginLeft="100sp"
+            android:onClick="AddMeter"
+            android:text="@string/Add" />
+
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10sp"
+                android:onClick="Clear"
+                android:text="@string/clear"
+                android:textColor="@color/green" />
+        
+     </LinearLayout>
+
+</RelativeLayout>

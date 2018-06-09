@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <Spinner
+        android:id="@+id/edit_tenancy_dilog"
+         android:spinnerMode="dropdown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:prompt="@string/apartment"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="8dip"/>
+    
+
+       />
+    <EditText android:id="@+id/editText1"
+        android:layout_below="@+id/edit_tenancy_dilog"
+        android:layout_margin="8dp"
+         android:focusable="false"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+       android:hint="Tenant"
+
+       />
+
+        />
+    <EditText android:id="@+id/editText2"
+        android:layout_margin="8dp"
+        android:inputType="text"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Start Date"
+       android:layout_below="@+id/editText1"
+     />
+
+       />
+    <EditText android:id="@+id/editText3"
+        android:layout_margin="8dp"
+        android:inputType="text"
+        android:hint="End Date"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+         android:layout_below="@+id/editText2"
+       
+
+         />
+
+
+    <EditText android:id="@+id/editText4"   
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/editText3"
+        android:hint="Monthly Rental"
+       />  
+
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:onClick="EditRecord"
+            android:layout_below="@+id/editText4"
+
+            android:text="Save Edits" />
+
+        <Button
+            android:id="@+id/cancel_dialog"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:layout_below="@+id/save"
+           android:onClick="Cancel"
+            android:gravity="center"            
+            android:text="Back" />
+
+
+</RelativeLayout>

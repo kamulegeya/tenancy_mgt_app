@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="10dip"
+    android:layout_height="match_parent"
+    android:background="@drawable/home"  
+    android:orientation="vertical" >
+    <Button android:id="@+id/search"
+                     android:layout_width="match_parent"
+                     android:layout_marginTop="40sp"
+                     android:background="@color/white"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="30sp"
+                     android:layout_marginRight="30sp"
+                     android:layout_gravity="center"
+                     android:onClick="StartSearch"
+                     android:textColor="@color/green"
+                     android:text="Click to Search"/>
+    
+     <Button android:id="@+id/btnclear"
+                     android:layout_width="match_parent"
+                      android:background="@color/white"
+                     android:layout_marginTop="30sp"
+                      android:layout_marginLeft="30sp"
+                     android:layout_marginRight="30sp"                     
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:onClick="StartSearch"
+                     android:textColor="@color/green"
+                     android:text="Clear History"/>
+
+</LinearLayout>

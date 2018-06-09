@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/add_meter" android:title="Meters" android:orderInCategory="13"/>
+    <item android:title=" Process power  payment" android:id="@+id/history" android:orderInCategory="12"/>
+    <item android:title=" Edit Power payment" android:id="@+id/editpayments" android:orderInCategory="11"/>
+    <item android:id="@+id/view_tenants" android:title="Tenants" android:orderInCategory="10"></item>
+    <item android:id="@+id/bill" android:title="Power Bills" android:orderInCategory="9"/>                                         
+    <item android:id="@+id/add_new_meter" android:title="Add Meters" android:orderInCategory="1"></item>
+  <item android:id="@+id/add_new_tenant" android:title="Add Tenants"  android:orderInCategory="2"></item>
+  <item android:id="@+id/tenancy" android:title="Tenancy Mgt" android:orderInCategory="3"></item>
+<item android:id="@+id/serach" android:title="Search" android:orderInCategory="4"></item>
+<item android:id="@+id/settings" android:title="User Information" android:orderInCategory="4"></item>
+<item android:id="@+id/back_up" android:title="Back up data" android:orderInCategory="5"/>
+<item android:id="@+id/readings" android:title="Meter readings" android:orderInCategory="6"></item>
+<item android:id="@+id/help" android:title="About" android:orderInCategory="7"></item>
+<item android:id="@+id/exports" android:title="Export CSV" android:orderInCategory="8"></item>
+<item android:id="@+id/taxcompute" android:title="Compute Rental Tax" android:orderInCategory="9"></item>
+
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\MMApp\app\libs\itextg-5.5.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="535bd28823d92f3af8b968d82edce3bb115f809d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\itextg-5.5.3_8dfc7a7ccf10e43bf4becd8ec5a6f56e5f03a555\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\MMApp\app\libs\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\sqliteassethelper-2.0.1_eada85d4e9e1dab45746693c8ced555f19d27dd0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a789ade1e4b3b82b5b53bd3f7d5f988161833f2">
+        <dex dex="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f0892422927320ea729299a38b1b3f059fe57b6a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a5a8b3d999adbbb21b7fcea5ad50a2f60d9aa885">
+        <dex dex="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_178949ac751600f74af22131756d237d0927f93f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\MMApp\app\libs\opencsv-2.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-2.3_801e8b1b53f1497c13e4bcd5fc2035a4c38f4e3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\user\AndroidStudioProjects\MMApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_3c9634e73870f3270eed8634a922b954d7502e55\classes.dex" />
+    </item>
+
+</items>

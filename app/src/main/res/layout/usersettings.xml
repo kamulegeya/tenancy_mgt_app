@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/general"
+    android:layout_height="match_parent"
+    >
+
+
+    <EditText  android:id="@+id/edittxtname"
+      android:textSize="18sp"
+      android:textColor="@color/green" 
+        android:background="@drawable/edittext"
+       android:inputType="textMultiLine" 
+        android:hint="Enter your name"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+               android:layout_height="70dp"
+
+        />
+   <EditText  android:id="@+id/edittxtNumber"
+        android:inputType="textMultiLine" 
+      android:textSize="18sp"
+      android:textColor="@color/green"
+       android:gravity="center"
+       android:layout_below="@+id/edittxtname"
+       android:hint="Enter Your Contact Number"
+        android:layout_width="match_parent"
+          android:background="@drawable/edittext"
+          android:layout_margin="10dp"
+        android:layout_height="70dp"
+
+        /> 
+      <EditText  android:id="@+id/editTxtAddress"
+        android:inputType="textMultiLine" 
+      android:textSize="18sp"
+      android:textColor="@color/green"
+          android:layout_margin="10dp"
+          android:gravity="center"
+          android:hint="Enter your address"
+        android:layout_width="match_parent"
+          android:background="@drawable/edittext"
+        android:layout_below="@+id/edittxtNumber"
+        android:layout_height="70dp"
+
+        /> 
+        
+        <EditText  android:id="@+id/edittxtCurrency"
+      android:textSize="18sp"
+      android:textColor="@color/green"
+            android:layout_margin="10dp"
+       android:inputType="textMultiLine"
+            android:gravity="center"
+            android:hint="Enter Currency Symbol"
+         android:background="@drawable/edittext"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/editTxtAddress"
+        android:layout_height="70dp"
+
+        /> 
+
+        <Button
+            android:id="@+id/btnAddSave"
+            android:layout_width="match_parent"
+            android:layout_margin="10dip"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edittxtCurrency"
+            android:textColor="@color/green"
+            android:text="Save"
+            android:textSize="18sp" />
+            
+</RelativeLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"     
+     android:orientation="vertical"
+    android:layout_height="wrap_content" >
+   <Spinner
+        android:id="@+id/selectTenant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:prompt="@string/choosetenant"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="8dip"/>
+   <TextView
+        android:id="@+id/textView1"        
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:layout_height="wrap_content" 
+        android:gravity="center"     
+       android:layout_marginLeft="20sp"    
+        android:text="@string/readingdate"
+        />
+   <LinearLayout android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+    		android:orientation="horizontal">
+    
+       	<Button
+            android:id="@+id/pick_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"  
+            android:layout_marginLeft="20sp"         
+            android:onClick="AddDate"
+            android:text="Pick Date" />
+             
+       <TextView
+        android:id="@+id/txtReading_Date" 
+          android:textSize="15sp"       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"         
+        android:gravity="left" 
+        android:text="No Date Selected"   
+             
+        android:layout_marginLeft="50sp"
+        />   
+         
+       
+   </LinearLayout>
+   
+   
+    
+   
+      <TextView
+        android:id="@+id/textView2"        
+        android:layout_width="wrap_content"
+          android:textSize="20sp"
+        android:gravity="center"
+        android:layout_height="wrap_content"     
+       
+        android:text="@string/readingunits"
+          android:layout_marginLeft="20sp"
+        />  
+         <EditText
+         android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="100sp" 
+        android:layout_marginRight="10sp"      
+        android:layout_height="wrap_content"         
+         android:inputType="numberDecimal"/>
+ <TextView
+        android:id="@+id/textView3" 
+          android:textSize="20sp"       
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"        
+       
+       android:text="@string/powerrate"        
+        />      
+            
+      
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="100sp"  
+            android:layout_marginRight="10sp" 
+            android:layout_height="wrap_content"                
+            android:inputType="numberDecimal" />
+        
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"           
+            android:gravity="center"
+            android:onClick="AddNew"
+            android:text="@string/Add" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10sp"
+           android:layout_marginLeft="50sp"
+           android:layout_weight="0.5"
+            android:gravity="center"
+            android:onClick="Cancel"
+            android:text="Clear" />
+    </LinearLayout>
+
+</LinearLayout>

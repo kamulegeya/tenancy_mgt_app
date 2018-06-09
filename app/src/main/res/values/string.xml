@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    <string-array name="nav_main_items">
+        <item>Add Meters</item>
+        <item>Add Meters</item>
+        <item>Backup data</item>
+        <item>Power Bills</item>
+        <item>Tenants</item>
+        <item>Edit power payments</item>
+        <item>Process power payment</item>
+        <item>Tenancy Mgt</item>
+        <item>Abount</item>
+        <item>Export CSV</item>
+        <item>Search</item>
+        <item>Meter Readings</item>
+    </string-array>
+    <string-array name="nav_tenancy_items">
+        <item>Add Locations</item>
+        <item>Add Apartment Blocks</item>
+        <item>Add Apartments</item>
+        <item>Add Tenancy</item>
+        <item>Make Receipts</item>
+        <item>Make Invoices</item>
+        <item>Locations</item>
+        <item>Apartments</item>
+        <item>View Payments</item>
+        <item>Un-paid invoices</item>
+        <item>Invoice Payments</item>
+        <item>Apartment Blocks</item>
+        <item>Annual Receipts/Invoices</item>
+    </string-array>
+
+    <string name="Add">Add Record </string>
+    <string name="addblocks">Add Apartment Block</string>
+    <string name="addmeter"> Adding Meters</string>
+    <string name="address">Address</string>
+    <string name="allocate"> Allocate Meters</string>
+    <string name="amount">Amount</string>
+    <string name="apartment">Select Apartment</string>
+    <string name="apartmentlocations">Add Location of Apartments </string>
+    <string name="apartments">Apartment Listing </string>
+    <string name="apartments_add">Add new Apartment</string>
+    <string name="app_name"> Tenancy Mgt </string>
+    <string name="back"> Back</string>
+    <string name="bills"> Bills </string>
+    <string name="bkup">Back up/Restore Data</string>
+    <string name="block"> Choose Block Number</string>
+    <string name="cancel"> Cancel </string>
+    <string name="canceledits"> Cancel Edits</string>
+    <string name="choose_meter">Select a Meter</string>
+    <string name="choosetenant"> Choose a tenant</string>
+    <string name="choosetenantedit"> Choose a tenant</string>
+    <string name="clear"> Clear</string>
+    <string name="contact"> Get from contacts</string>
+    <string name="date">Date</string>
+    <string name="dateadded">Date Added </string>
+    <string name="dateinactive">Date InActive </string>
+    <string name="dd">Due Date</string>
+    <string name="edate">End Date</string>
+    <string name="editTenants"> Edit Tenant Details </string>
+    <string name="edit_l">Edit Locations</string>
+    <string name="editallocation">Editing Meter Allocation</string>
+    <string name="editpayments"> Edit Payments</string>
+    <string name="email">Email Address</string>
+    <string name="filter">Filter by period</string>
+    <string name="firstname">First Name</string>
+    <string name="full_name">Name</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">
+
+
+
+    &lt;h1>
+        USE
+    &lt;/h1>
+    &lt;p>
+   This is  a rentals management app.
+   It help you manage  rental records like tenancy agreements(start dates,end dates, rental fees,tenant,room/apartment), rent payments and  invoices.
+   All your information will be avaiable at you finger tips;who has not paid,which tenancy is soon expiring,how much money has room A generated this year, what is
+   my annual gross earnings for rentals in location A etc.
+   You will receive notifications for over due rent, easily email receipts and invoices, and send sms reminders.
+   You can  export data(invoices and receipts) as CSV files which you can view  in excel.
+   It also keep track of post-paid electricity meter readings.
+
+
+    &lt;/p>
+    &lt;h2>
+        Set Up.
+    &lt;/h2>
+    &lt;p>
+       The App capture data on the following:
+        &lt;/p>
+
+        (1):&lt;b>Tenants&lt;/b> perticulars captured :First Name, SurName, Mobile Numbers,email..etc. &lt;br>
+         (2):&lt;b>Meters&lt;/b> perticulars captured are : Serial  Number, Meter Number. &lt;br>
+         (3):&lt;b>Periodic&lt;/b> Meter Readings for each meter. &lt;br>
+         (4):&lt;b>Power Payments&lt;/b> Payments for the computed electricity bill. &lt;br>
+         (5):&lt;b>Locations &lt;/b> Places where you own rentals &lt;br>
+         (6):&lt;b>Apartment Blocks&lt;/b> Buildings that houses the various apartments/rooms. &lt;br>
+         (7):&lt;b>Apartments&lt;/b> This what you actually rent out. &lt;br>
+         (8):&lt;b>Tenancy Agreements&lt;/b> This is generally a specified amount of rent for a given room for a period of time for a given tenant.&lt;br>
+         (9):&lt;b> Periodic Invoicing &lt;/b> You create invoices for tenants  e.g monthly.  &lt;br>
+         (10):&lt;b> Receipts  &lt;/b> You create receipts after an invoice is paid by the tenant.  &lt;br>
+
+
+
+
+		Steps(not in  linear order. Skip steps 1,3,4 if you are not to use the app  to manage  meter readings ):&lt;br>
+		1: Add Meters   &lt;br>
+		2: Add Tenants    &lt;br>
+		3:Allocate meters to Tenants &lt;br>
+		4:Enter meter readings e.g after a month &lt;br>
+		5:Enter payments for power/electricity when made by tenants &lt;br>
+		6:Add Rentals Information:location,blocks and apartments/rooms &lt;br>
+		7:Enter Tenancy information:room,startdate,EndDate, Rental Amount &lt;br>
+		8:Enter periodic invoices e.g monthly &lt;br>
+		9:Enter receipts against invoices as the Tenants pay &lt;br>
+
+
+
+		&lt;p> &lt;b>How to add Meters(tap blue links for images ).&lt;/b>&lt;/p>
+		While at the home page &lt;a href="content://com.example.metermanager/main"> Main Menu &lt;/a>
+		 ,tap the device Menu to show the different menu options. &lt;br>
+		Choose the Add Meter option and the screen for capturing the meter information opens.&lt;br>
+		Enter the Meter serial number(as indicated on the meter) and give the meter a number e.g 001.&lt;br>
+		&lt;a href="content://com.example.metermanager/meters"> Add Meters &lt;/a>
+		&lt;p> &lt;b>How to add Tenants.&lt;/b>&lt;/p>
+		While at the home screen,tap the device Menu to show the different menu options. &lt;br>
+		Choose the Add Tenants option and the screen for capturing the  information opens.&lt;br>
+		Enter the tenant perticulars e.g first name, mobile numbers, email.&lt;br>
+		&lt;a href="content://com.example.metermanager/tenants"> Add Tenants &lt;/a>
+		To show list of Tenants click on Tenants menu item from the main menu.
+		&lt;a href="content://com.example.metermanager/tenantslist"> Tenants &lt;/a>
+		&lt;p> &lt;b>Allocate Meters .&lt;/b>&lt;/p>
+		While at the home screen,tap the device Menu to show the different menu options. &lt;br>
+		Choose the Meters option and the list of meters will be displayed.
+		 &lt;a href="content://com.example.metermanager/_meters"> Meters&lt;/a>&lt;br>
+
+		Tap/press  the screen for a few seconds and a sub menu will appear. Choose Allocate Meters .
+		Select a tenant and a meter number you are allocating to that tenant. Enter other details as shown on the screen
+		.&lt;br>
+		The submenu displayed also has the screen for entering meter reading(Read Meters). &lt;br>
+		To record a payment for power/electricity,select process power payment from the app main menu. &lt;br>
+	     &lt;a href="content://com.example.metermanager/allocation"> Meter Allocation &lt;/a>
+
+     &lt;p> &lt;b>Add Tenancy Information.&lt;/b>&lt;/p>
+		While at the home screen,
+		tap the device Menu to show the different menu options. &lt;br>
+		Choose the Tenancy Mgt.
+		For first time use, you get a blank screen.	Subsquently, a list of active tenancy will be shown.
+			&lt;a href="content://com.example.metermanager/tenancy"> Tenancy List &lt;/a>
+		Press the menu button to bring the Tenancy Mgt Menu.&lt;br>
+		&lt;a href="content://com.example.metermanager/tmenu"> Tenancy Mgt Menu &lt;/a>
+		Follw the steps below(&lt;b>in the order given!&lt;/b>).&lt;br>
+     (1) &lt;b>Add Location&lt;/b>( just one entry if u have apartments in one area only)&lt;br>
+     (2) &lt;b>Add Apartment&lt;/b> Blocks(also one entry if you have a single block ) just name it something like "Main Block".&lt;br>
+     (3) &lt;b>Add apartments/rooms&lt;/b> now.( A room belongs to a block and a block belongs to a location)&lt;br>
+   (4) &lt;b>Add Tenancy&lt;/b> (for each room/apartment.) Tenant A for Room 1(an example) ,Tenant B for room 2 etc....should be for a specif period. e.g a year...etc.&lt;br>
+   (5) &lt;b>Start invoicing Tenants&lt;/b>(Process Invoices) e.g monthly(enter start date and end date, date and the amount).&lt;br>
+  (6) &lt;b>Receive Payments(Rental Receipts)&lt;/b> when the tenant pays(an invoice must exist before you receive the payment).&lt;br>
+   (7) &lt;b>Other functionality can be discovered by long tapping(pressing) the screen  or selecting the menu item&lt;/b> &lt;br>
+ (8) &lt;b>Always backup the application data(main menu, select backup) and keep the database file on a seperate storage medium like a pc,laptop,etc.
+     The file is stored(after backing up) in the folder MeterAppBackups created either on the Sd card or device internal storage.
+ &lt;/b> &lt;br>
+
+
+
+
+
+    </string>
+    <string name="home"> Tenancy Mgt </string>
+    <string name="id">ID</string>
+    <string name="inactive">InActive </string>
+    <string name="invoice">Invoice Due Date</string>
+    <string name="invoices_status">Invoices Payment Status</string>
+    <string name="invoices_unpaid"> Unpaid Invoices</string>
+    <string name="list"> Tenant List</string>
+    <string name="list1">Tenacy List </string>
+    <string name="list_blocks">Apartment Blocks </string>
+    <string name="list_tenancy">Tenancy List</string>
+    <string name="listing_payments">Rental Payments</string>
+    <string name="location">Choose Block Location</string>
+    <string name="locations">Apartment Locations</string>
+    <string name="meter"> Meter Number</string>
+    <string name="meter_allocate">
+    Edit Meter allocation perticulars like Tenant, Meter Number, Allocation and Meter Reading.
+
+
+    </string>
+    <string name="meter_list">Meter List</string>
+    <string name="meter_reading">Meter Reading</string>
+    <string name="meters_allocation">meters allocation</string>
+    <string name="mobile1">Mobile Line 1</string>
+    <string name="mobile2">Mobile line 2</string>
+    <string name="othername">Other Name</string>
+    <string name="period">Period</string>
+    <string name="phone">Preferred Mobile Number</string>
+    <string name="power">Power Payments</string>
+    <string name="power_balances">Balances</string>
+    <string name="powerrate"> Power Rate</string>
+    <string name="prereading">Previous Reading </string>
+    <string name="process_invoice">Processing Invoices</string>
+    <string name="prreadingdate">Previous Reading Date</string>
+    <string name="rate">Unit Rate</string>
+    <string name="reading">Meter Reading</string>
+    <string name="readingdate"> Reading Date</string>
+    <string name="readingunits"> Meter Reading</string>
+    <string name="readmeter"> Taking Meter Readings</string>
+    <string name="receipts"> Process Payments</string>
+    <string name="rent">Monthly Rent</string>
+    <string name="rental_payments">Processing Rental Receipts</string>
+    <string name="results"> Search Results</string>
+    <string name="room">Room/Apartment</string>
+    <string name="savechange"> Save Changes </string>
+    <string name="sdate"> Start Date</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter name or transaction type you want to search</string>
+    <string name="surname">Surname</string>
+    <string name="tenancy">Add Tenancy </string>
+    <string name="tenant">Tenant</string>
+    <string name="tenants_add"> Add Tenants </string>
+    <string name="txthome">
+
+     &lt;b> Welcome to Rental Management Application.&lt;/b> &lt;br>
+     &lt;b> Press the menu button to begin.&lt;/b>&lt;br>
+     &lt;b> For enquiries,comments,suggestions contact me via email ronald.kamulegeya.2014@gmail.com&lt;/>&lt;br>
+      &lt;b> &lt;i> Copyright Kamulegeya Ronald 2014 &lt;/i> &lt;/>&lt;br>
+
+
+    </string>
+    <string name="units">Units Used</string>
+    <string name="user">User Perticulars</string>
+    <string name="user_settings">User Information </string>
+    <string name="yoname">Your Name</string>
+
+</resources>

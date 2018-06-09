@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="10sp"
+     android:background="@drawable/home" 
+    android:layout_height="match_parent" >
+    <Button
+        android:id="@+id/bkup"
+                   android:layout_height="wrap_content"
+                   android:layout_width="match_parent"
+                   android:layout_marginTop="40dip"
+                   android:background="@color/white"
+                   android:onClick="BackUp"
+                   android:layout_marginLeft="40sp"
+                   android:text="Backup Database"
+                   android:textColor="@color/green"
+                   android:layout_marginRight="40sp"/>
+    
+ <Button
+        android:id="@+id/store"
+                    android:layout_below="@+id/bkup"
+                    android:layout_marginTop="20sp"
+                      android:background="@color/white"
+                   android:layout_height="wrap_content"
+                   android:layout_width="match_parent"
+                   android:onClick="Restore"
+                   android:layout_marginLeft="40sp"
+                    android:textColor="@color/green"
+                   android:text="Restore Database"
+                   android:layout_marginRight="40sp"/>
+
+</RelativeLayout>

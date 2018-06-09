@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content" >
+        
+        <EditText
+         android:id="@+id/editText1"
+          android:inputType="text"
+        android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:hint="@string/firstname"
+
+        android:layout_height="50dp"
+              />
+        <EditText
+         android:id="@+id/editText2"
+        android:layout_width="match_parent"
+            android:layout_height="40dp"
+          android:hint="@string/surname"
+            android:layout_below="@+id/editText1"
+
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp"
+         android:inputType="text"
+
+            />
+        <EditText
+         android:id="@+id/editText3"
+        android:layout_width="match_parent"
+            android:layout_below="@+id/editText2"
+         android:hint="@string/othername"
+            android:layout_height="40dp"
+
+         android:inputType="text"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp"
+            />
+        <EditText
+         android:id="@+id/editText4"
+            android:layout_below="@+id/editText3"
+
+        android:layout_width="match_parent"
+            android:layout_height="40dp"
+        android:hint="@string/mobile1"
+        android:inputType="phone"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp"
+
+            />
+        <EditText
+         android:id="@+id/editText5"
+
+            android:layout_below="@+id/editText4"
+
+        android:layout_width="match_parent"
+            android:layout_height="40dp"
+        android:hint="@string/mobile2"
+        android:inputType="phone"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:textSize="18dp"
+
+            />
+         <EditText
+         android:id="@+id/editText6"
+                     android:layout_below="@+id/editText5"
+
+             android:hint="@string/email"
+        android:layout_width="match_parent"
+             android:layout_height="40dp"
+        android:inputType="textEmailAddress"
+             android:layout_marginLeft="8dp"
+             android:layout_marginRight="8dp"
+             android:layout_marginTop="10dp"
+             android:textSize="18dp"
+             />
+        
+
+
+     <Button
+         android:id="@+id/contact"
+         android:layout_width="match_parent"
+         android:layout_below="@+id/editText6"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="5sp"
+          android:text="@string/contact"
+          />
+              
+        <Button
+            android:id="@+id/add"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/contact"
+            android:layout_height="wrap_content"            
+            android:layout_marginLeft="5sp"
+            android:onClick="AddNew"
+            android:text="Add" />
+
+            <Button
+                android:id="@+id/cancel"
+                android:layout_below="@+id/add"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5sp"              
+                android:text="@string/cancel" />
+     
+
+</RelativeLayout>

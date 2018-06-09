@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.example.metermanager"
+        minSdkVersion 11
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:18.0.0'
+    implementation files('libs/itextg-5.5.3.jar')
+    implementation files('libs/opencsv-2.3.jar')
+    implementation files('libs/sqliteassethelper-2.0.1.jar')
+}

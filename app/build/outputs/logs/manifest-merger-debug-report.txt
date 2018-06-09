@@ -1,0 +1,569 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:1-292:12
+	package
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:13:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:16:22-77
+application
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:18:5-290:19
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:20:9-42
+	android:allowBackup
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:22:9-40
+provider#com.example.metermanager.SimpleSuggestionProvider
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:23:9-25:87
+	android:authorities
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:25:13-84
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:24:13-53
+provider#meters.model.CacheFileProvider
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:26:9-29:39
+	android:authorities
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:28:13-65
+	android:exported
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:27:13-58
+meta-data#android.app.searchable
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:31:9-33:46
+	android:resource
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:266:17-47
+	android:value
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:32:13-50
+meta-data#com.google.android.backup.api_key
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:34:9-36:82
+	android:value
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:36:13-79
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:35:13-61
+activity#com.example.metermanager.HomeActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:38:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:40:13-41
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:39:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.example.metermanager.ReadMeter
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:48:9-51:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:50:13-46
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:49:13-38
+activity#com.example.metermanager.AddNewTenant
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:54:13-48
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:53:13-41
+activity#com.example.metermanager.EditLocations
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:57:13-42
+activity#com.example.metermanager.TenantList
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:60:9-63:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:62:13-41
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:61:13-39
+activity#com.example.metermanager.DateReading
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:65:13-40
+activity#com.example.metermanager.CSVExports
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:68:13-39
+activity#com.example.metermanager.EditTenancy
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:70:9-73:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:71:13-40
+activity#com.example.metermanager.UserSettingsActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:74:9-76:53
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:76:13-50
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:75:13-49
+activity#com.example.metermanager.Help
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:78:13-33
+activity#com.example.metermanager.InActiveTenancy
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:81:13-44
+activity#com.example.metermanager.ProcessRentalInvoice
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:85:13-52
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:84:13-49
+activity#com.example.metermanager.EditTenants
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:87:9-90:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:89:13-48
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:88:13-40
+activity#com.example.metermanager.EditMeterReading
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:91:9-94:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:92:13-45
+activity#com.example.metermanager.EditApartmentBlocks
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:95:9-98:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:97:13-45
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:96:13-48
+activity#com.example.metermanager.EditMeterAllocation
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:99:9-102:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:101:13-51
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:100:13-48
+activity#com.example.metermanager.MeterList
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:103:9-106:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:105:13-47
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:104:13-38
+activity#com.example.metermanager.TenantBalances
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:107:9-110:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:109:13-51
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:108:13-43
+activity#com.example.metermanager.Payments
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:111:9-114:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:113:13-45
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:112:13-37
+activity#com.example.metermanager.AddNewMeter
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:115:9-118:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:116:13-40
+activity#com.example.metermanager.MetersTenants
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:119:9-122:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:121:13-45
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:120:13-42
+activity#com.example.metermanager.SetInActiveTenant
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:123:9-126:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:126:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:125:13-45
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:124:13-46
+activity#com.example.metermanager.LocationSales
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:127:9-129:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:129:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:128:13-42
+activity#com.example.metermanager.Allocation_Meters
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:130:9-133:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:132:13-54
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:131:13-46
+activity#com.example.metermanager.Bills
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:134:9-137:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:136:13-42
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:135:13-34
+activity#com.example.metermanager.EditPayments
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:138:9-141:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:140:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:139:13-41
+activity#com.example.metermanager.AddTenancy
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:142:9-145:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:145:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:144:13-44
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:143:13-39
+activity#com.example.metermanager.ActiveTenancyList
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:146:9-149:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:148:13-42
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:147:13-46
+activity#com.example.metermanager.AddLocations
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:150:9-153:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:152:13-55
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:151:13-41
+activity#com.example.metermanager.AddApartmentBlocks
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:154:9-157:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:157:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:156:13-46
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:155:13-47
+activity#com.example.metermanager.ApartmentLocations
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:158:9-161:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:160:13-46
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:159:13-47
+activity#com.example.metermanager.ApartmentsList
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:162:9-165:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:165:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:164:13-47
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:163:13-43
+activity#com.example.metermanager.AddApartments
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:166:9-169:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:169:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:168:13-51
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:167:13-42
+activity#com.example.metermanager.RentalPayments
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:170:9-173:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:173:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:172:13-52
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:171:13-43
+activity#com.example.metermanager.RentalPaymentsList
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:174:9-177:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:177:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:176:13-53
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:175:13-47
+activity#com.example.metermanager.Invoices
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:178:9-181:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:180:13-52
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:179:13-37
+activity#com.example.metermanager.AnnualFigures
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:182:9-184:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:184:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:183:13-42
+activity#com.example.metermanager.MeterReadings
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:185:9-187:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:187:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:186:13-42
+activity#com.example.metermanager.OverDueInvoices
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:188:9-198:20
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:191:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:190:13-52
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:189:13-44
+intent-filter#action:name:com.example.metermanager.OverDueInvoices+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:192:13-196:29
+action#com.example.metermanager.OverDueInvoices
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:193:17-83
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:193:25-80
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:195:17-76
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:195:27-73
+activity#com.example.metermanager.RentalPaymentsStaus
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:199:9-202:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:202:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:201:13-52
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:200:13-48
+activity#com.example.metermanager.BackupActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:203:9-206:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:206:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:205:13-41
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:204:13-43
+activity#com.example.metermanager.BlocksList
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:207:9-210:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:210:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:209:13-48
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:208:13-39
+activity#com.example.metermanager.PowerPaymentsActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:211:9-214:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:214:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:213:13-42
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:212:13-50
+activity#com.example.metermanager.ApartmentPayments
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:215:9-217:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:217:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:216:13-46
+activity#com.example.metermanager.ImagesActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:218:9-231:20
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:220:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:219:13-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:com.example.metermanager+data:scheme:content
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:221:13-229:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:224:17-69
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:224:25-66
+data
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:226:17-228:48
+	android:host
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:227:21-60
+	android:scheme
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:228:21-45
+activity#com.example.metermanager.ApartmentInvoices
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:232:9-234:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:234:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:233:13-46
+activity#com.example.metermanager.EditApartments
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:235:9-237:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:237:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:236:13-43
+activity#com.example.metermanager.MetersInActive
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:238:9-240:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:240:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:239:13-43
+activity#com.example.metermanager.EditMeters
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:241:9-243:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:243:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:242:13-39
+activity#com.example.metermanager.EditInvoices
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:244:9-246:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:246:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:245:13-41
+activity#com.example.metermanager.SetTenancyInActive
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:247:9-249:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:249:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:248:13-47
+activity#com.example.metermanager.UnInvoicedRoomsActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:250:9-252:52
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:252:13-49
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:251:13-52
+activity#com.example.metermanager.SearchActivity
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:253:9-268:20
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:257:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:255:13-44
+	android:launchMode
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:256:13-43
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:254:13-43
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:258:13-262:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:259:17-71
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:259:25-68
+activity#com.example.metermanager.SearchMain
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:269:9-277:20
+	android:screenOrientation
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:272:13-49
+	android:label
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:271:13-43
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:270:13-39
+meta-data#android.app.default_searchable
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:273:13-275:51
+	android:value
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:275:17-48
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:274:17-62
+receiver#com.example.metermanager.NotificationsReceiver
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:279:9-285:20
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:279:19-56
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.HOME
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:280:13-284:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:281:17-79
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:281:25-76
+category#android.intent.category.HOME
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:283:17-73
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:283:27-70
+activity#com.example.metermanager.RentalTaxComputation
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:287:9-58
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:287:19-55
+activity#com.example.metermanager.RentalTaxResults
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:288:9-54
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:288:19-51
+activity#com.example.metermanager.RoomInvoicingStatus
+ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:289:9-66
+	android:name
+		ADDED from C:\Users\user\AndroidStudioProjects\MMApp\app\src\main\AndroidManifest.xml:289:19-54
